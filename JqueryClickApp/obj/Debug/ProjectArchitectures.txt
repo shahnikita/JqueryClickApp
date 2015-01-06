@@ -1,0 +1,1 @@
+D:\DemoProjects\JqueryClickApp\JqueryClickApp\JqueryClickApp.csproj;neutral

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WINDOWS-SECOND</Machine>
+    <WindowsUser>windows-second</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>abafa6fe-3f35-49a1-a95d-fd6c33862323</PackageIdentityName>
+    <IntermediateOutputPath>D:\DemoProjects\JqueryClickApp\JqueryClickApp\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\bin\Debug\JqueryClickApp.exe">
+      <PackagePath>JqueryClickApp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Assets\WideLogo.scale-140.png">
+      <PackagePath>Assets\WideLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Html\css\phone.css">
+      <PackagePath>Html\css\phone.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Html\images\demo.scale-100.jpg">
+      <PackagePath>Html\images\demo.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Html\images\demo.scale-140.jpg">
+      <PackagePath>Html\images\demo.scale-140.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Html\images\demo.scale-240.jpg">
+      <PackagePath>Html\images\demo.scale-240.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Html\index.html">
+      <PackagePath>Html\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Html\scripts\srcipt1.js">
+      <PackagePath>Html\scripts\srcipt1.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Scripts\jquery-2.1.3.intellisense.js">
+      <PackagePath>Scripts\jquery-2.1.3.intellisense.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Scripts\jquery-2.1.3.js">
+      <PackagePath>Scripts\jquery-2.1.3.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\Scripts\jquery-2.1.3.min.js">
+      <PackagePath>Scripts\jquery-2.1.3.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\bin\Debug\JqueryClickApp.xr.xml">
+      <PackagePath>JqueryClickApp.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DemoProjects\JqueryClickApp\JqueryClickApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
